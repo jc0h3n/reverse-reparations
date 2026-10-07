@@ -1,0 +1,304 @@
+{
+ "_about": "Hand-compiled. Every figure carries a source; figures the article cites that could not be confirmed independently are marked asCited. Amounts are nominal in the original currency unless a source gives a modern equivalent.",
+ "reverse": [
+  {
+   "id": "nanking",
+   "name": "Treaty of Nanking",
+   "year": 1842,
+   "payer": "Qing China",
+   "payee": "Britain",
+   "amount": "21 million silver dollars",
+   "detail": "$6 million for opium destroyed at Canton, $3 million for Hong merchants' debts, and $12 million for the costs of the war Britain waged",
+   "why": "Britain said China's suppression of the opium trade violated its right to trade, so China paid for the war fought to reverse it.",
+   "spans": [
+    {
+     "from": 1842,
+     "to": 1845,
+     "label": "Instalments over three years (Art. VII)"
+    }
+   ],
+   "sources": [
+    [
+     "Treaty of Nanking, Arts. IV–VII (1842)",
+     "https://worldjpn.net/documents/texts/pw/18420829.T1E.html"
+    ]
+   ]
+  },
+  {
+   "id": "haiti",
+   "name": "Haiti's independence indemnity",
+   "year": 1825,
+   "payer": "Haiti",
+   "payee": "France and former French slaveholders",
+   "amount": "150 million gold francs, cut to 90 million in 1838",
+   "detail": "About 112 million francs paid in indemnity and loan charges, roughly US$560 million in 2022 dollars (New York Times estimate)",
+   "why": "A royal ordinance, delivered by a squadron of warships, made payment the price of French recognition. Haiti borrowed from French banks to pay, the \"double debt\".",
+   "spans": [
+    {
+     "from": 1825,
+     "to": 1888,
+     "label": "Payments to former slaveholders"
+    },
+    {
+     "from": 1888,
+     "to": 1947,
+     "label": "Loans taken to pay them",
+     "light": true
+    }
+   ],
+   "sources": [
+    [
+     "Charles X, Ordinance of 17 April 1825",
+     "https://en.wikipedia.org/wiki/Haitian_independence_debt"
+    ],
+    [
+     "New York Times, \"The Root of Haiti's Misery: Reparations to Enslavers\" (2022)",
+     "https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html"
+    ],
+    [
+     "LSU, France, Haiti and the Question of Indebtedness",
+     "https://www.lsu.edu/cffs/france-haiti-indebtedness.php"
+    ]
+   ]
+  },
+  {
+   "id": "britain",
+   "name": "British slave-owner compensation",
+   "year": 1835,
+   "payer": "British taxpayers (and the enslaved, through unpaid \"apprenticeship\")",
+   "payee": "Slave owners",
+   "amount": "£20 million",
+   "detail": "About 40% of the government's annual income; raised through a £15 million loan in 1835 plus £5 million more. Nothing was paid to the people freed.",
+   "why": "Abolition treated the enslaved as owners' property, so owners were compensated and the freed were bound to years of unpaid labour.",
+   "spans": [
+    {
+     "from": 1835,
+     "to": 2015,
+     "label": "Loan repaid until February 2015"
+    },
+    {
+     "from": 1834,
+     "to": 1838,
+     "label": "\"Apprenticeship\": unpaid labour by the freed",
+     "light": true
+    }
+   ],
+   "sources": [
+    [
+     "Slavery Abolition Act 1833",
+     "https://www.legislation.gov.uk/ukpga/Will4/3-4/73/contents"
+    ],
+    [
+     "HM Treasury FOI release (2018)",
+     "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/680456/FOI2018-00186_-_Slavery_Abolition_Act_1833_-_pdf_for_disclosure_log__003_.pdf"
+    ],
+    [
+     "Full Fact on the loan",
+     "https://fullfact.org/economy/slavery-abolition-act-loan/"
+    ],
+    [
+     "UCL, Legacies of British Slavery",
+     "https://www.ucl.ac.uk/lbs/"
+    ]
+   ]
+  },
+  {
+   "id": "indonesia",
+   "name": "Indonesia's independence debt",
+   "year": 1949,
+   "payer": "Indonesia",
+   "payee": "The Netherlands",
+   "amount": "4.3–4.5 billion guilders",
+   "detail": "Debts of the colonial government, reportedly including the cost of Dutch military action against the Republic, assumed at the Round Table Conference. Sources give totals of 4.3 to 4.5 billion; one account puts repayments at nearly 4 billion before Indonesia stopped paying in 1956.",
+   "why": "Taking on the colonial state's debts was a condition of the Dutch transfer of sovereignty.",
+   "spans": [
+    {
+     "from": 1949,
+     "to": 1956,
+     "label": "Repaid until Indonesia repudiated the agreement"
+    }
+   ],
+   "sources": [
+    [
+     "Dutch–Indonesian Round Table Conference",
+     "https://en.wikipedia.org/wiki/Dutch%E2%80%93Indonesian_Round_Table_Conference"
+    ],
+    [
+     "Historibersama, \"Colonial reparations\"",
+     "https://historibersama.com/colonial-reparations"
+    ]
+   ]
+  }
+ ],
+ "corporate": {
+  "intro": "After decolonization, newly independent states nationalized foreign-owned concessions. Investment treaties and arbitration then let corporations sue states directly for compensation, which Anghie calls \"corporate reparations\".",
+  "compare": [
+   {
+    "label": "Everything the ICJ has ordered states to pay, 1949–2026",
+    "usd": 325473890.59,
+    "note": "Four awards: Diallo, Costa Rica v. Nicaragua, DRC v. Uganda (US$325.5 million), plus £843,947 in Corfu Channel (not included).",
+    "href": "https://jc0h3n.github.io/icj-remedies/"
+   },
+   {
+    "label": "Tethyan Copper v. Pakistan, one award (2019)",
+    "usd": 5976000000,
+    "note": "US$4.087 billion in damages plus US$1.753 billion interest to the award date, over a mining lease that was never granted. Settled in 2022 through a new joint venture for the mine.",
+    "href": "https://en.wikipedia.org/wiki/Reko_Diq_case"
+   },
+   {
+    "label": "The 12 largest investor–state awards",
+    "usd": 95000000000,
+    "note": "11 of the 12 went to fossil fuel or mining companies. The UN Special Rapporteur says the total likely exceeds all damages ever awarded to victims of human rights violations by all courts.",
+    "href": "https://digitallibrary.un.org/record/4019472"
+   }
+  ],
+  "facts": [
+   {
+    "value": "72%",
+    "label": "of cases fossil fuel investors win at the merits stage",
+    "source": [
+     "UN Doc. A/78/168, para. 5",
+     "https://digitallibrary.un.org/record/4019472"
+    ]
+   },
+   {
+    "value": "$77 bn+",
+    "label": "paid by governments to fossil fuel investors to date (2023)",
+    "source": [
+     "UN Doc. A/78/168, para. 5",
+     "https://digitallibrary.un.org/record/4019472"
+    ]
+   },
+   {
+    "value": "3,000+",
+    "label": "investment agreements signed",
+    "source": [
+     "Anghie (2025)",
+     "https://doi.org/10.1017/ajil.2025.10078"
+    ]
+   }
+  ],
+  "cases": [
+   {
+    "name": "Rockhopper v. Italy",
+    "text": "Italy banned new offshore drilling near its coast; a tribunal awarded about €190 million (2022) for a production concession that had not yet been granted. An ICSID committee annulled the award in June 2025 over an arbitrator's undisclosed conflict.",
+    "sources": [
+     [
+      "Decision on Annulment, 2 June 2025",
+      "https://www.italaw.com/sites/default/files/case-html-files/italaw1826895_Decision-on-Annulment_2025-06-02.html"
+     ]
+    ]
+   },
+   {
+    "name": "Eco Oro v. Colombia",
+    "text": "A majority found that Colombia's protection of a high-altitude wetland breached the treaty despite an environmental exception, though the damages phase awarded nothing.",
+    "sources": [
+     [
+      "IISD summary (2021)",
+      "https://www.iisd.org/itn/2021/12/20/majority-in-eco-oro-v-colombia-finds-violation-of-minimum-standard-of-treatment-holds-that-a-general-environmental-exception-does-not-preclude-obligation-to-pay-compensation"
+     ]
+    ]
+   }
+  ]
+ },
+ "colonial": [
+  {
+   "name": "Nauru v. Australia",
+   "status": "Settled",
+   "text": "Nauru sued at the ICJ over phosphate mining under the mandate and trusteeship, arguing breach of trust. After losing on most objections (1992), Australia settled in 1993: A$107 million plus A$2.5 million a year for twenty years, with Britain and New Zealand contributing.",
+   "sources": [
+    [
+     "ICJ, Certain Phosphate Lands in Nauru",
+     "https://jc0h3n.github.io/icj-remedies/#tab=cases&case=80"
+    ],
+    [
+     "Settlement agreement, 10 August 1993",
+     "https://pacliirms.austlii.edu.au/pits/en/treaty_database/1993/15.html"
+    ]
+   ]
+  },
+  {
+   "name": "Herero and Nama genocide (Germany)",
+   "status": "Not reparations",
+   "text": "Germany acknowledged the 1904–08 genocide in political and moral terms and offered about €1.1 billion in development funding over 30 years, expressly not as legal reparations. Representatives of affected communities have challenged the joint declaration, and it was still contested in 2025.",
+   "sources": [
+    [
+     "Bonn GPIL blog (2023)",
+     "https://gpil.jura.uni-bonn.de/2023/04/reconciliation-without-reparation-the-german-namibian-joint-declaration-on-our-colonial-past"
+    ],
+    [
+     "Amnesty International (2025)",
+     "https://www.amnesty.org/en/latest/news/2025/10/namibia-germany-must-deliver-reparatory-justice-for-its-brutal-colonial-past/"
+    ]
+   ]
+  },
+  {
+   "name": "CARICOM's 10-point plan",
+   "status": "Not accepted",
+   "text": "Caribbean states seek reparatory justice for slavery and native genocide. None of the ten points has been accepted; Britain declined to apologise at the 2024 Commonwealth summit.",
+   "sources": [
+    [
+     "CARICOM Reparations Commission",
+     "https://caricomreparations.org/caricom/caricoms-10-point-reparation-plan"
+    ],
+    [
+     "BBC (October 2024)",
+     "https://www.bbc.com/news/articles/c0qzkg0ldqzo"
+    ]
+   ],
+   "points": [
+    "Full formal apology",
+    "Repatriation",
+    "Indigenous peoples development programme",
+    "Cultural institutions",
+    "Public health crisis",
+    "Illiteracy eradication",
+    "African knowledge programme",
+    "Psychological rehabilitation",
+    "Technology transfer",
+    "Debt cancellation"
+   ]
+  }
+ ],
+ "debt": {
+  "facts": [
+   {
+    "value": "$921 bn",
+    "label": "net interest paid on public debt by developing countries in 2024",
+    "source": [
+     "UNCTAD, A World of Debt 2025",
+     "https://unctad.org/publication/world-of-debt"
+    ]
+   },
+   {
+    "value": "3.4 bn",
+    "label": "people live in countries that spend more on interest than on health or education",
+    "source": [
+     "UNCTAD, A World of Debt 2025",
+     "https://unctad.org/publication/world-of-debt"
+    ]
+   },
+   {
+    "value": "$3.3 tn",
+    "label": "external debt of developing countries in 2007",
+    "source": [
+     "UNCTAD",
+     "https://unctad.org/"
+    ]
+   },
+   {
+    "value": "$7.7 tn",
+    "label": "paid in debt service by developing countries up to 2007, as cited by Anghie",
+    "asCited": true,
+    "source": [
+     "Anghie (2025), citing Steger, Globalization (6th ed. 2023)",
+     "https://doi.org/10.1017/ajil.2025.10078"
+    ]
+   }
+  ]
+ },
+ "article": {
+  "cite": "Antony Anghie, “The Injustices of Reparations,” 119 American Journal of International Law 423 (2025)",
+  "doi": "https://doi.org/10.1017/ajil.2025.10078"
+ }
+}
