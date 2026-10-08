@@ -1,4 +1,5 @@
 # Reverse Reparations
+**Live site:** https://jc0h3n.github.io/reverse-reparations/
 
 A one-page visualization of the reparations that ran from the colonized to the colonizers, following Antony Anghie, "The Injustices of Reparations," 119 *American Journal of International Law* 423 (2025), [doi:10.1017/ajil.2025.10078](https://doi.org/10.1017/ajil.2025.10078).
 
